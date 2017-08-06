@@ -14,7 +14,7 @@ Public DNS List
 2. 中国境内(除中国台湾以外)的DNS服务器列表(感觉不太全...) : [china.txt](https://github.com/neargle/public-dns-list/blob/master/china.txt)
 
 
-# 更新
+## 更新
 
 两个列表会不定时更新，因为是用在另一个安全扫描器相关的项目中，所以只有那个项目的定时任务启动时需要DNS列表时才会更新。
 
