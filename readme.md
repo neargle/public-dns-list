@@ -22,5 +22,6 @@ Update frequency: An average of about one or two days.
 
 - When blasting detects subdomains, if too many DNS requests are initiated at the same time, it will have a serious false result. Requesting different DNS servers may help you deal with it.
 - May able to help u to bypass the CDN and find the real IP of domain.
+- Use by massdns
 - and so on
 
